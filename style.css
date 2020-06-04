@@ -1,0 +1,79 @@
+div {
+	line-height:0;
+}
+
+#header {
+	background-color:#F8F8F8;
+    height:40px;
+    padding:10px;
+    
+}
+
+#banner {
+    left:80%;
+    float:left;
+}
+
+#links {
+    right:20%;
+    float:right;
+}
+
+#links p {
+	text-decoration:none;
+	display:inline;
+}
+
+#main {
+	color:#F8F8F8;
+    background-color:#42998E;
+	background:url('bg.JPG');
+	background-repeat:no-repeat;
+	background-size:cover;
+    font-family:Optima, Arial, Times;
+	padding:200px;
+}
+
+#main p {
+	position:relative;
+	right:20%;
+	line-height:1;
+	font-size:large;
+}
+
+#main h1 {
+	position:relative;
+	right:20%;
+	line-height:1;
+}
+
+#main .plus {
+	 width:18px; 
+	 height:19px; 
+	 vertical-align:middle;
+}
+
+#footer {
+	background-color:#F8F8F8;
+	padding:10px;
+	text-align:center;
+}
+
+span {
+	font-family:Arial, Times;
+}
+
+h1 {
+	font-family:Cursive;
+	color:#000000;
+}	
+
+a {
+	text-decoration:none;
+	color:#000000;
+}
+
+a:hover {
+	color:#0099FF;
+}
+
